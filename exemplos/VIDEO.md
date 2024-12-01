@@ -4,7 +4,7 @@
 Este vídeo de 5 segundos apresenta uma mensagem de Natal, onde meu avô, já falecido, deseja um Feliz Natal aos familiares nos chamando por uma apelido muito peculiar.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **Seaart.ai(https://www.seaart.ai/pt))** para criação de avatar e pano de fundo realistico a partir de uma foto de referência.
+- IA Generativa **Seaart.ai (https://www.seaart.ai/pt))** para criação de avatar e pano de fundo realistico a partir de uma foto de referência.
 - IA Generativa **Visnoz AI (https://aiapp-pt.vidnoz.com/)** para sintetização de voz e geração de movimento facial;
 - IA Generativa **Wondershare Filmora (versão paga)** para sintetização e sincronização de voz, inserção de filtro, música e texto.
 
