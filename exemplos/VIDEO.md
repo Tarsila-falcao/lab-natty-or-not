@@ -14,7 +14,7 @@ Utilizei uma foto antiga do meu avô disponivel no meu arquivo do Facebook. No S
 ## 🚀 Resultados
 O resultado foi um vídeio de 5 seg com uma mensagem de Natal personalizada para os familiares, que será enviado pelo grupo de Whatsapp da minha família na noite de Natal.
 
-[LINK PARA O VÍDEO AQUI]()
+[ASSISTA O VIDEO](https://github.com/Tarsila-falcao/lab-natty-or-not/blob/main/Vov%C3%B4%20Jo%C3%A3o.mp4)
 
 ## 💭 Reflexão
 Apesar dos desafios ocasionados pela total falta de experiência com aplicações do tipo e das limitações impostas à utilização de recursos nas contas gratuitas, o resultado, para uma primeira criação, me surpreendeu muito positivamente.
