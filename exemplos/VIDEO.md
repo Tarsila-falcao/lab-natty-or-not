@@ -6,7 +6,7 @@ Este vídeo de 5 segundos apresenta uma mensagem de Natal, onde meu avô, já fa
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Seaart.ai](https://www.seaart.ai/pt))** para criação de avatar e pano de fundo realistico a partir de uma foto de referência.
 - IA Generativa **[Visnoz AI](https://aiapp-pt.vidnoz.com/)** para sintetização de voz e geração de movimento facial;
-- IA Generativa **[Wondershare Filmora](versão paga)** para sintetização e sincronização de voz, inserção de filtro, música e texto.
+- IA Generativa **Wondershare Filmora (versão paga)** para sintetização e sincronização de voz, inserção de filtro, música e texto.
 
 ## 🧐 Processo de Criação
 Utilizei uma foto antiga do meu avô disponivel no meu arquivo do Facebook. No Seaat.ai escolhi um modelo de obra e adptei o prompt para criar uma foto com o mesmo pano de fundo e um avatar realista. No Vidnoz.ai, utilizei a opção de Foto Falante e fiz upload da foto criada no Seaart.ai. Introduzi a dublagem com uma voz modelo existente no aplicativo. No Wondersahare filmora editei o vídeo e substituí a dublagem por outra com a voz mais parecdida com a de um idoso e fiz a sincronia da imagem e da voz. Também acrescentei filtro, adesivos e música com o tema Natal nesta mesma última ferramenta.
